@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-view site"-https://685ff4e801fb0b1fc438e3a4--rad-boba-d772cf.netlify.app/
+view site -https://685ff4e801fb0b1fc438e3a4--rad-boba-d772cf.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
